@@ -1,0 +1,9 @@
+streamlit==1.34.0
+mecab==0.996.3
+MeCab-python3==1.0.9
+nltk==3.8.1
+googletrans==4.0.0-rc1
+transformers==4.40.2
+torch==2.3.0
+torchaudio==2.3.0
+torchvision==2.3.0
